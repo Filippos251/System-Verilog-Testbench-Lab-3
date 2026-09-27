@@ -1,0 +1,28 @@
+Dashboard
+
+Date: Sun Sep 27 16:04:03 2026
+
+User: up1096314
+
+Version: N-2017.12-1
+Command line: urg -full64 -dir simv.vdb -report coverage_report -format text 
+
+Number of tests: 1
+
+-------------------------------------------------------------------------------
+Total Coverage Summary 
+SCORE  LINE   COND   TOGGLE FSM    BRANCH ASSERT 
+100.00 100.00 --     100.00 --     100.00 100.00 
+
+
+-------------------------------------------------------------------------------
+Hierarchical coverage data for top-level instances 
+SCORE  LINE   COND   TOGGLE FSM    BRANCH ASSERT NAME    
+100.00 100.00 --     100.00 --     100.00 100.00 fifo_tb 
+
+
+-------------------------------------------------------------------------------
+Total Module Definition Coverage Summary 
+SCORE  LINE   COND   TOGGLE FSM    BRANCH ASSERT 
+100.00 100.00 --     100.00 --     100.00 100.00 
+

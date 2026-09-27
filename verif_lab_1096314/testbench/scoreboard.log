@@ -1,0 +1,264 @@
+[60] WRITE     : Pushed 0xd9 to reference FIFO
+[70] READ MATCH: Expected = 0xd9, Actual = 0xd9
+[80] WRITE     : Pushed 0xd9 to reference FIFO
+[90] READ MATCH: Expected = 0xd9, Actual = 0xd9
+[100] WRITE     : Pushed 0xd9 to reference FIFO
+[110] READ MATCH: Expected = 0xd9, Actual = 0xd9
+[120] WRITE     : Pushed 0xd9 to reference FIFO
+[130] READ MATCH: Expected = 0xd9, Actual = 0xd9
+[140] WRITE     : Pushed 0xd9 to reference FIFO
+[150] READ MATCH: Expected = 0xd9, Actual = 0xd9
+[190] WRITE     : Pushed 0x59 to reference FIFO
+[200] READ MATCH: Expected = 0x59, Actual = 0x59
+[210] WRITE     : Pushed 0x59 to reference FIFO
+[220] READ MATCH: Expected = 0x59, Actual = 0x59
+[250] WRITE     : Pushed 0x68 to reference FIFO
+[260] READ MATCH: Expected = 0x68, Actual = 0x68
+[270] WRITE     : Pushed 0x68 to reference FIFO
+[280] READ MATCH: Expected = 0x68, Actual = 0x68
+[340] WRITE     : Pushed 0x17 to reference FIFO
+[360] WRITE     : Pushed 0x17 to reference FIFO
+[380] WRITE     : Pushed 0x17 to reference FIFO
+[390] READ MATCH: Expected = 0x17, Actual = 0x17
+[400] WRITE     : Pushed 0x17 to reference FIFO
+[420] WRITE     : Pushed 0x17 to reference FIFO
+[520] WRITE     : Pushed 0xa5 to reference FIFO
+[540] WRITE     : Pushed 0xa5 to reference FIFO
+[590] READ MATCH: Expected = 0x17, Actual = 0x17
+[600] WRITE     : Pushed 0x43 to reference FIFO
+[600] READ MATCH: Expected = 0x17, Actual = 0x17
+[610] READ MATCH: Expected = 0x17, Actual = 0x17
+[620] WRITE     : Pushed 0x43 to reference FIFO
+[620] READ MATCH: Expected = 0x17, Actual = 0x17
+[640] WRITE     : Pushed 0x43 to reference FIFO
+[660] WRITE     : Pushed 0x43 to reference FIFO
+[670] READ MATCH: Expected = 0xa5, Actual = 0xa5
+[710] READ MATCH: Expected = 0xa5, Actual = 0xa5
+[770] WRITE     : Pushed 0x9d to reference FIFO
+[790] WRITE     : Pushed 0x9d to reference FIFO
+[790] READ MATCH: Expected = 0x43, Actual = 0x43
+[810] WRITE     : Pushed 0x9d to reference FIFO
+[830] READ MATCH: Expected = 0x43, Actual = 0x43
+[840] READ MATCH: Expected = 0x43, Actual = 0x43
+[880] READ MATCH: Expected = 0x43, Actual = 0x43
+[910] WRITE     : Pushed 0xee to reference FIFO
+[930] WRITE     : Pushed 0xee to reference FIFO
+[980] WRITE     : Pushed 0x54 to reference FIFO
+[990] READ MATCH: Expected = 0x9d, Actual = 0x9d
+[1000] WRITE     : Pushed 0x54 to reference FIFO
+[1020] WRITE     : Pushed 0x54 to reference FIFO
+[1040] WRITE     : Pushed 0x54 to reference FIFO
+[1040] READ MATCH: Expected = 0x9d, Actual = 0x9d
+[1060] WRITE     : Pushed 0x54 to reference FIFO
+[1100] READ MATCH: Expected = 0x9d, Actual = 0x9d
+[1110] WRITE     : Pushed 0xde to reference FIFO
+[1120] READ MATCH: Expected = 0xee, Actual = 0xee
+[1140] WRITE     : Pushed 0xde to reference FIFO
+[1170] READ MATCH: Expected = 0xee, Actual = 0xee
+[1180] WRITE     : Pushed 0xde to reference FIFO
+[1210] READ MATCH: Expected = 0x54, Actual = 0x54
+[1240] READ MATCH: Expected = 0x54, Actual = 0x54
+[1260] WRITE     : Pushed 0x56 to reference FIFO
+[1280] WRITE     : Pushed 0x56 to reference FIFO
+[1300] READ MATCH: Expected = 0x54, Actual = 0x54
+[1310] WRITE     : Pushed 0x56 to reference FIFO
+[1340] READ MATCH: Expected = 0x54, Actual = 0x54
+[1350] WRITE     : Pushed 0x56 to reference FIFO
+[1360] READ MATCH: Expected = 0x54, Actual = 0x54
+[1370] READ MATCH: Expected = 0xde, Actual = 0xde
+[1380] WRITE     : Pushed 0x56 to reference FIFO
+[1380] READ MATCH: Expected = 0xde, Actual = 0xde
+[1440] READ MATCH: Expected = 0xde, Actual = 0xde
+[1450] READ MATCH: Expected = 0x56, Actual = 0x56
+[1460] READ MATCH: Expected = 0x56, Actual = 0x56
+[1490] WRITE     : Pushed 0xe1 to reference FIFO
+[1500] READ MATCH: Expected = 0x56, Actual = 0x56
+[1510] WRITE     : Pushed 0xe1 to reference FIFO
+[1510] READ MATCH: Expected = 0x56, Actual = 0x56
+[1540] READ MATCH: Expected = 0x56, Actual = 0x56
+[1560] WRITE     : Pushed 0x7b to reference FIFO
+[1580] WRITE     : Pushed 0x7b to reference FIFO
+[1620] READ MATCH: Expected = 0xe1, Actual = 0xe1
+[1640] WRITE     : Pushed 0xf8 to reference FIFO
+[1660] WRITE     : Pushed 0xf8 to reference FIFO
+[1730] WRITE     : Pushed 0x42 to reference FIFO
+[1750] WRITE     : Pushed 0x42 to reference FIFO
+[1800] WRITE     : Pushed 0x7 to reference FIFO
+[1800] READ MATCH: Expected = 0xe1, Actual = 0xe1
+[1820] WRITE     : Pushed 0x7 to reference FIFO
+[1850] READ MATCH: Expected = 0x7b, Actual = 0x7b
+[1860] WRITE     : Pushed 0x7 to reference FIFO
+[1860] READ MATCH: Expected = 0x7b, Actual = 0x7b
+[1870] WRITE     : Pushed 0x7 to reference FIFO
+[1880] READ MATCH: Expected = 0xf8, Actual = 0xf8
+[1890] WRITE     : Pushed 0x7 to reference FIFO
+[1890] READ MATCH: Expected = 0xf8, Actual = 0xf8
+[1900] WRITE     : Pushed 0x7 to reference FIFO
+[1950] READ MATCH: Expected = 0x42, Actual = 0x42
+[1960] WRITE     : Pushed 0x7 to reference FIFO
+[2000] READ MATCH: Expected = 0x42, Actual = 0x42
+[2020] READ MATCH: Expected = 0x7, Actual = 0x7
+[2060] WRITE     : Pushed 0x48 to reference FIFO
+[2080] WRITE     : Pushed 0x48 to reference FIFO
+[2130] READ MATCH: Expected = 0x7, Actual = 0x7
+[2140] READ MATCH: Expected = 0x7, Actual = 0x7
+[2150] WRITE     : Pushed 0x48 to reference FIFO
+[2150] READ MATCH: Expected = 0x7, Actual = 0x7
+[2190] READ MATCH: Expected = 0x7, Actual = 0x7
+[2200] WRITE     : Pushed 0xe3 to reference FIFO
+[2220] WRITE     : Pushed 0xe3 to reference FIFO
+[2250] READ MATCH: Expected = 0x7, Actual = 0x7
+[2320] WRITE     : Pushed 0x41 to reference FIFO
+[2320] READ MATCH: Expected = 0x7, Actual = 0x7
+[2340] WRITE     : Pushed 0x41 to reference FIFO
+[2360] READ MATCH: Expected = 0x48, Actual = 0x48
+[2400] WRITE     : Pushed 0x75 to reference FIFO
+[2420] WRITE     : Pushed 0x75 to reference FIFO
+[2420] READ MATCH: Expected = 0x48, Actual = 0x48
+[2440] WRITE     : Pushed 0x75 to reference FIFO
+[2520] READ MATCH: Expected = 0x48, Actual = 0x48
+[2540] WRITE     : Pushed 0x75 to reference FIFO
+[2550] READ MATCH: Expected = 0xe3, Actual = 0xe3
+[2570] WRITE     : Pushed 0x75 to reference FIFO
+[2590] READ MATCH: Expected = 0xe3, Actual = 0xe3
+[2600] READ MATCH: Expected = 0x41, Actual = 0x41
+[2610] WRITE     : Pushed 0xa2 to reference FIFO
+[2630] WRITE     : Pushed 0xa2 to reference FIFO
+[2750] READ MATCH: Expected = 0x41, Actual = 0x41
+[2770] WRITE     : Pushed 0x62 to reference FIFO
+[2860] READ MATCH: Expected = 0x75, Actual = 0x75
+[2880] WRITE     : Pushed 0x62 to reference FIFO
+[2990] READ MATCH: Expected = 0x75, Actual = 0x75
+[3010] WRITE     : Pushed 0x62 to reference FIFO
+[3080] READ MATCH: Expected = 0x75, Actual = 0x75
+[3100] WRITE     : Pushed 0x62 to reference FIFO
+[3280] READ MATCH: Expected = 0x75, Actual = 0x75
+[3290] READ MATCH: Expected = 0x75, Actual = 0x75
+[3300] WRITE     : Pushed 0x84 to reference FIFO
+[3320] WRITE     : Pushed 0x84 to reference FIFO
+[3460] READ MATCH: Expected = 0xa2, Actual = 0xa2
+[3480] WRITE     : Pushed 0x84 to reference FIFO
+[3490] READ MATCH: Expected = 0xa2, Actual = 0xa2
+[3500] READ MATCH: Expected = 0x62, Actual = 0x62
+[3520] WRITE     : Pushed 0x48 to reference FIFO
+[3540] WRITE     : Pushed 0x48 to reference FIFO
+[3590] READ MATCH: Expected = 0x62, Actual = 0x62
+[3610] WRITE     : Pushed 0x48 to reference FIFO
+[3620] READ MATCH: Expected = 0x62, Actual = 0x62
+[3640] WRITE     : Pushed 0x48 to reference FIFO
+[3720] READ MATCH: Expected = 0x62, Actual = 0x62
+[3740] WRITE     : Pushed 0x8e to reference FIFO
+[3740] READ MATCH: Expected = 0x84, Actual = 0x84
+[3760] WRITE     : Pushed 0x8e to reference FIFO
+[3890] READ MATCH: Expected = 0x84, Actual = 0x84
+[3910] WRITE     : Pushed 0x8e to reference FIFO
+[3910] READ MATCH: Expected = 0x84, Actual = 0x84
+[3950] WRITE     : Pushed 0xa9 to reference FIFO
+[3980] READ MATCH: Expected = 0x48, Actual = 0x48
+[4000] WRITE     : Pushed 0xa9 to reference FIFO
+[4010] READ MATCH: Expected = 0x48, Actual = 0x48
+[4050] READ MATCH: Expected = 0x48, Actual = 0x48
+[4060] READ MATCH: Expected = 0x48, Actual = 0x48
+[4080] WRITE     : Pushed 0xf6 to reference FIFO
+[4100] WRITE     : Pushed 0xf6 to reference FIFO
+[4120] WRITE     : Pushed 0xf6 to reference FIFO
+[4120] READ MATCH: Expected = 0x8e, Actual = 0x8e
+[4140] WRITE     : Pushed 0xf6 to reference FIFO
+[4170] READ MATCH: Expected = 0x8e, Actual = 0x8e
+[4190] WRITE     : Pushed 0xf6 to reference FIFO
+[4200] READ MATCH: Expected = 0x8e, Actual = 0x8e
+[4250] WRITE     : Pushed 0xee to reference FIFO
+[4260] READ MATCH: Expected = 0xa9, Actual = 0xa9
+[4280] WRITE     : Pushed 0xee to reference FIFO
+[4380] READ MATCH: Expected = 0xa9, Actual = 0xa9
+[4400] WRITE     : Pushed 0xee to reference FIFO
+[4400] READ MATCH: Expected = 0xf6, Actual = 0xf6
+[4420] WRITE     : Pushed 0xee to reference FIFO
+[4430] READ MATCH: Expected = 0xf6, Actual = 0xf6
+[4490] READ MATCH: Expected = 0xf6, Actual = 0xf6
+[4500] WRITE     : Pushed 0x3b to reference FIFO
+[4520] WRITE     : Pushed 0x3b to reference FIFO
+[4600] READ MATCH: Expected = 0xf6, Actual = 0xf6
+[4620] WRITE     : Pushed 0x3b to reference FIFO
+[4680] READ MATCH: Expected = 0xf6, Actual = 0xf6
+[4690] READ MATCH: Expected = 0xee, Actual = 0xee
+[4700] WRITE     : Pushed 0x3d to reference FIFO
+[4720] WRITE     : Pushed 0x3d to reference FIFO
+[4780] READ MATCH: Expected = 0xee, Actual = 0xee
+[4800] WRITE     : Pushed 0x3d to reference FIFO
+[4820] READ MATCH: Expected = 0xee, Actual = 0xee
+[4850] WRITE     : Pushed 0x44 to reference FIFO
+[4910] READ MATCH: Expected = 0xee, Actual = 0xee
+[4930] WRITE     : Pushed 0x44 to reference FIFO
+[4930] READ MATCH: Expected = 0x3b, Actual = 0x3b
+[4970] READ MATCH: Expected = 0x3b, Actual = 0x3b
+[4980] READ MATCH: Expected = 0x3b, Actual = 0x3b
+[4990] WRITE     : Pushed 0x65 to reference FIFO
+[5000] READ MATCH: Expected = 0x3d, Actual = 0x3d
+[5010] WRITE     : Pushed 0x65 to reference FIFO
+[5030] WRITE     : Pushed 0x65 to reference FIFO
+[5040] READ MATCH: Expected = 0x3d, Actual = 0x3d
+[5050] WRITE     : Pushed 0x65 to reference FIFO
+[5050] READ MATCH: Expected = 0x3d, Actual = 0x3d
+[5130] WRITE     : Pushed 0x64 to reference FIFO
+[5150] WRITE     : Pushed 0x64 to reference FIFO
+[5180] READ MATCH: Expected = 0x44, Actual = 0x44
+[5200] WRITE     : Pushed 0x64 to reference FIFO
+[5200] READ MATCH: Expected = 0x44, Actual = 0x44
+[5220] READ MATCH: Expected = 0x65, Actual = 0x65
+[5270] WRITE     : Pushed 0xe to reference FIFO
+[5290] WRITE     : Pushed 0xe to reference FIFO
+[5290] READ MATCH: Expected = 0x65, Actual = 0x65
+[5350] WRITE     : Pushed 0xa6 to reference FIFO
+[5360] READ MATCH: Expected = 0x65, Actual = 0x65
+[5380] WRITE     : Pushed 0xa6 to reference FIFO
+[5390] READ MATCH: Expected = 0x65, Actual = 0x65
+[5420] WRITE     : Pushed 0x4b to reference FIFO
+[5540] READ MATCH: Expected = 0x64, Actual = 0x64
+[5560] WRITE     : Pushed 0x4b to reference FIFO
+[5650] READ MATCH: Expected = 0x64, Actual = 0x64
+[5670] WRITE     : Pushed 0x4b to reference FIFO
+[5780] READ MATCH: Expected = 0x64, Actual = 0x64
+[5800] WRITE     : Pushed 0x4b to reference FIFO
+[5820] READ MATCH: Expected = 0xe, Actual = 0xe
+[5830] READ MATCH: Expected = 0xe, Actual = 0xe
+[5840] WRITE     : Pushed 0x4b to reference FIFO
+[5850] READ MATCH: Expected = 0xa6, Actual = 0xa6
+[5910] WRITE     : Pushed 0x4d to reference FIFO
+[5920] READ MATCH: Expected = 0xa6, Actual = 0xa6
+[5930] WRITE     : Pushed 0x4d to reference FIFO
+[5950] WRITE     : Pushed 0x4d to reference FIFO
+[5950] READ MATCH: Expected = 0x4b, Actual = 0x4b
+[6010] WRITE     : Pushed 0xf9 to reference FIFO
+[6040] READ MATCH: Expected = 0x4b, Actual = 0x4b
+[6060] WRITE     : Pushed 0xf9 to reference FIFO
+[6110] READ MATCH: Expected = 0x4b, Actual = 0x4b
+[6120] READ MATCH: Expected = 0x4b, Actual = 0x4b
+[6160] READ MATCH: Expected = 0x4b, Actual = 0x4b
+[6170] WRITE     : Pushed 0xc0 to reference FIFO
+[6170] READ MATCH: Expected = 0x4d, Actual = 0x4d
+[6190] WRITE     : Pushed 0xc0 to reference FIFO
+[6190] READ MATCH: Expected = 0x4d, Actual = 0x4d
+[6200] READ MATCH: Expected = 0x4d, Actual = 0x4d
+[6210] WRITE     : Pushed 0xc0 to reference FIFO
+[6230] WRITE     : Pushed 0xc0 to reference FIFO
+[6290] READ MATCH: Expected = 0xf9, Actual = 0xf9
+[6310] WRITE     : Pushed 0xc2 to reference FIFO
+[6330] WRITE     : Pushed 0xc2 to reference FIFO
+[6350] WRITE     : Pushed 0xc2 to reference FIFO
+[6440] READ MATCH: Expected = 0xf9, Actual = 0xf9
+[6460] WRITE     : Pushed 0xc2 to reference FIFO
+[6500] READ MATCH: Expected = 0xc0, Actual = 0xc0
+[6520] READ MATCH: Expected = 0xc0, Actual = 0xc0
+[6570] READ MATCH: Expected = 0xc0, Actual = 0xc0
+[6590] READ MATCH: Expected = 0xc0, Actual = 0xc0
+[6610] READ MATCH: Expected = 0xc2, Actual = 0xc2
+[6620] READ MATCH: Expected = 0xc2, Actual = 0xc2
+[6800] READ MATCH: Expected = 0xc2, Actual = 0xc2
+[6910] READ MATCH: Expected = 0xc2, Actual = 0xc2
+--------------------------------
+       SCOREBOARD RESULTS       
+--------------------------------
+Matches    : 129
+Mismatches : 0
+STATUS: PASS

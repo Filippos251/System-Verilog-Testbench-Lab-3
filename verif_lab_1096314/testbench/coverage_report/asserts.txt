@@ -1,0 +1,46 @@
+Assertions
+
+
+Assertions by Category
+           ASSERT PROPERTIES SEQUENCES
+Total           7          0         0
+Category 0      7          0         0
+
+-------------------------------------------------------------------------------
+
+Assertions by Severity
+           ASSERT PROPERTIES SEQUENCES
+Total           7          0         0
+Severity 0      7          0         0
+
+-------------------------------------------------------------------------------
+
+Summary for Assertions
+                 NUMBER PERCENT
+Total Number          7  100.00
+Uncovered             0    0.00
+Success               7  100.00
+Failure               2   28.57
+Incomplete            0    0.00
+Without Attempts      0    0.00
+
+-------------------------------------------------------------------------------
+
+Detail Report for Assertions
+
+Assertions Success:
+                    ASSERTIONS                     CATEGORY SEVERITY ATTEMPTS REAL SUCCESSES FAILURES INCOMPLETE
+fifo_tb.duv.duv_bind.check_fifoempty                      0        0     2999           2324        0          0
+fifo_tb.duv.duv_bind.check_fifoempty_rd_ptr_stable        0        0     2999              7        0          0
+fifo_tb.duv.duv_bind.check_fifofull                       0        0     2999            253        0          0
+fifo_tb.duv.duv_bind.check_fifofull_wr_ptr_stable         0        0     2999             10        0          0
+fifo_tb.duv.duv_bind.check_read_on_fifoempty              0        0     2999           2309       15          0
+fifo_tb.duv.duv_bind.check_reset                          0        0     2999              9        0          0
+fifo_tb.duv.duv_bind.check_write_on_fifofull              0        0     2999            235       18          0
+
+Assertions Failure:
+                 ASSERTIONS                  CATEGORY SEVERITY ATTEMPTS REAL SUCCESSES FAILURES INCOMPLETE
+fifo_tb.duv.duv_bind.check_read_on_fifoempty        0        0     2999           2309       15          0
+fifo_tb.duv.duv_bind.check_write_on_fifofull        0        0     2999            235       18          0
+
+

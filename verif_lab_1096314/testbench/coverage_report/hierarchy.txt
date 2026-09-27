@@ -1,0 +1,22 @@
+Design Hierarchy
+
+
+----------------
+SCORE  LINE   COND   TOGGLE FSM    BRANCH ASSERT         
+100.00 100.00 --     100.00 --     100.00 100.00 fifo_tb 
+  
+  ----------------
+  SCORE  LINE   COND   TOGGLE FSM    BRANCH ASSERT         
+  100.00 --     --     100.00 --     --     --     clkrstn 
+  100.00 100.00 --     100.00 --     100.00 100.00 duv     
+    
+    ----------------
+    SCORE  LINE   COND   TOGGLE FSM    BRANCH ASSERT          
+    100.00 --     --     100.00 --     --     100.00 duv_bind 
+  
+  ----------------
+  SCORE  LINE   COND   TOGGLE FSM    BRANCH ASSERT           
+  100.00 --     --     100.00 --     --     --     fread_if  
+  100.00 --     --     100.00 --     --     --     fwrite_if 
+  100.00 100.00 --     --     --     --     --     oop_tb    
+

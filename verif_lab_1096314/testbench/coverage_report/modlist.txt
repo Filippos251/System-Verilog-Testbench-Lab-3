@@ -1,0 +1,17 @@
+Design Module List
+
+Total Module Definition Coverage Summary 
+SCORE  LINE   COND   TOGGLE FSM    BRANCH ASSERT 
+100.00 100.00 --     100.00 --     100.00 100.00 
+
+
+Total modules in report: 6
+-------------------------------------------------------------------------------
+SCORE  LINE   COND   TOGGLE FSM    BRANCH ASSERT NAME          
+100.00 100.00 --     100.00 --     100.00 --     fifo_tb       
+100.00 100.00 --     --     --     --     --     fifo_test     
+100.00 100.00 --     100.00 --     100.00 --     fifo          
+100.00 --     --     100.00 --     --     --     clkrstn_if    
+100.00 --     --     100.00 --     --     --     fifo_if       
+100.00 --     --     100.00 --     --     100.00 fifo_property 
+
